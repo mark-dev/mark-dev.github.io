@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -x
+set -e
 
 git add --all
 git commit -m 'save'
