@@ -5,9 +5,9 @@ set -x
 git add --all
 git commit -m 'save'
 git pull
-echo '==============================================='
+echo -n '==============================================='
 ./update_readme_md.py
-echo '==============================================='
+echo -n '==============================================='
 git add --all
 git commit -m 'save readme'
 git push
