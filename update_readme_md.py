@@ -42,7 +42,7 @@ def main():
                 rel_path = str(pp.relative_to(CWD))
                 if today == dt:
                     today_links.append(f'https://mark-dev.github.io/{rel_path}')
-                markdown_parts.append(f'<a href="{rel_path}">{pp.name}</a>')
+                markdown_parts.append(f'<a href="{rel_path}">{pp.name}</a><br>')
             markdown_parts.append('---')
     new_markdown = '\n'.join(markdown_parts)
 
