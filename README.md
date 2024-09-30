@@ -1,3 +1,6 @@
+# 2024-09-30
+<a href="2024-09-30/with-letnaya-kuhnya.html">with-letnaya-kuhnya.html</a><br>
+---
 # 2024-09-29
 <a href="2024-09-29/gostinaya_v3.html">gostinaya_v3.html</a><br>
 ---
